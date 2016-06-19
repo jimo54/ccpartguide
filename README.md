@@ -1,3 +1,3 @@
-# ccpartguide
+# cybercorps-guides
 
-CyberCorps Participant's Guide
+CyberCorps Guides
